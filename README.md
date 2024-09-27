@@ -8,7 +8,7 @@ tmux source path-to-config/.tmux.conf
 
 ## コマンド一覧
 
-prefix = <C-j>
+prefix = \<C-j\>
 
 | コマンド          | 役割                                   |
 | ----------------- | -------------------------------------- |
