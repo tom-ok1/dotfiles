@@ -1,12 +1,10 @@
-# tmuxのカスタム設定
+# dotfiles
 
-設定を反映させるには↓を実行
+## tmux
 
-```
-tmux source path-to-config/.tmux.conf
-```
+`~/.tmux.conf`に配置する
 
-## コマンド一覧
+### コマンド一覧
 
 prefix = \<C-j\>
 
