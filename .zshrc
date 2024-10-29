@@ -126,3 +126,4 @@ complete -o nospace -C /opt/homebrew/bin/terraform terraform
 # paths
 export PATH="/opt/homebrew/bin:$PATH"
 export TERM=xterm-256color
+export PATH="$PATH:$(go env GOPATH)/bin"
